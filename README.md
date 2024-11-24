@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 关于我  
-- 🌐 我最喜欢的动漫：**None (期待推荐 😄)**  
+- 🌐 我最喜欢的动漫：**None**  
 - 💻 技术栈：**Golang | Node.js | Java | React | Vue | Uni App | React Native | Unity (C#)**  
 - ✍️ 热爱：**[写博客](https://harry.ocybers.com) 和学习**  
 - 📫 联系我：[邮箱](mailto:hl396276621@gmail.com)  
@@ -21,10 +21,18 @@
 
 ### 📊 **我的 GitHub 数据**  
 
+#### **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harry969&show_icons=true&theme=transparent&hide_title=true&count_private=true" alt="Harry's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry969&layout=compact&theme=tokyonight&hide=css,html" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harry969&show_icons=true&theme=transparent&hide_title=true&count_private=true" alt="Harry's GitHub Stats" width="70%">
 </div>
+
+---
+
+#### **Top Languages**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry969&layout=compact&theme=tokyonight&hide=css,html" alt="Top Languages" width="70%">
+</div>
+
 
 ---
 
