@@ -16,33 +16,23 @@
 - 🚀 参与开源项目并贡献代码
 
 ## 🔨 作品展示
-- 🌍 [我的博客](https://harry.ocybers.com)  
-- 📂 [GitHub项目](https://github.com/harry)  
+- 🌍 [我的博客](https://harry.ocybers.com) —— 分享我的编程和技术思考
+- 🎮 [我的GitHub项目](https://github.com/yourusername) —— 开源项目，欢迎 Star 和 Fork
+
+## 📊 GitHub Stats
+
+![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
 
 ## 📫 联系我
-- 📧 [邮箱](mailto:hl396276621@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/harry)  
-
----
+- 📧 [邮箱](mailto:hl396276621@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 
 ## 🖤 兴趣爱好
-- 阅读 [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
+- 读 [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - 刷 [YouTube](https://www.youtube.com)
-- 学习新技术并分享
 
----
-
-### 🎮 一些有趣的图标展示
-<p align="center">
-  <a href="https://www.github.com/harry" target="_blank">
-    <img src="https://img.shields.io/github/followers/harry?style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/harry" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
-## 🔥 GitHub 统计数据
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harry&show_icons=true&theme=radical" alt="Harry's GitHub stats" />
-</p>
