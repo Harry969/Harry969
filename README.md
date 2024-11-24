@@ -33,6 +33,3 @@
 ## 🖤 兴趣爱好
 - 读 [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - 刷 [YouTube](https://www.youtube.com)
-
-## 🖊️ 个人签名
-<img src="https://via.placeholder.com/150x50.png?text=Harry's+Signature" alt="Harry's Signature">
