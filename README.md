@@ -19,7 +19,7 @@
 ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry969&show_icons=true&count_private=true&hide_title=true&theme=radical&card_width=400&card_height=600)
 
 ## 💬 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry969&layout=compact&theme=radical&langs_count=10&card_width=600&card_height=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry969&layout=compact&theme=radical&langs_count=10&card_width=400&card_height=600)
 
 
 
