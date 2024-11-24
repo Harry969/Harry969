@@ -34,6 +34,3 @@
 - 读 [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - 刷 [YouTube](https://www.youtube.com)
 
----
-![Harry's Signature](https://github.com/Harry969/Harry969/blob/main/212e01e1486b31c0fada0f4cecfec97.png)
-
