@@ -15,12 +15,6 @@
 
 🏆 **我的 GitHub 统计信息:**
 
-|![](https://github-readme-stats.vercel.app/api?username=Harry969)|![我最常用的编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry969&layout=compact&hide_border=true&langs_count=10)|
-|-|-|
-
-
-#### 🐍 贡献
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harry969/Harry969/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harry969/Harry969/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Harry969/Harry969/output/github-contribution-grid-snake.svg">
+![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry969)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry969)
 :octocat:
