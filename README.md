@@ -15,16 +15,12 @@
 - 💡 学习新技术并将其应用于实践
 - 🚀 参与开源项目并贡献代码
 
-## 🔨 作品展示
-- 🌍 [我的博客](https://harry.ocybers.com) —— 分享我的编程和技术思考
-- 🎮 [我的GitHub项目](https://github.com/yourusername) —— 开源项目，欢迎 Star 和 Fork
-
 ## 📊 GitHub Stats
 
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry969&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&layout=compact)
 
 ## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry969&layout=compact&theme=radical&langs_count=10)
 
 ---
 
