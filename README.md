@@ -16,11 +16,11 @@
 - 🚀 参与开源项目并贡献代码
 
 ## 📊 GitHub Stats
+![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry969&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&layout=compact&card_width=700&card_height=350)
 
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry969&show_icons=true&count_private=true&hide_title=true&card_width=800&card_height=350)
+## 💬 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry969&layout=compact&theme=radical&langs_count=10&card_width=700&card_height=350)
 
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry969&layout=compact&card_width=800&card_height=350)
 
 ---
 
