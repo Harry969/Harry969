@@ -1,4 +1,4 @@
-# I'm **Harry**
+# Harry
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00CFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=hi;Niceto+meetyou;xixi~)](https://git.io/typing-svg)
 
